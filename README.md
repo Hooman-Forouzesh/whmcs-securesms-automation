@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hooman-Forouzesh/whmcs-securesms-automation/blob/main/hooman-forouzesh-git-repositorybanner.png)" width="100%" alt="Hooman Forouzesh Banner">
+  <img src="./hooman-forouzesh-git-repositorybanner.png" width="100%" alt="WHMCS Secure SMS Automation Banner">
 </p>
 
 # 🚀 WHMCS Secure SMS Automation
