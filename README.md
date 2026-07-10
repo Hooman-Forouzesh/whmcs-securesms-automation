@@ -41,6 +41,26 @@ A professional SMS automation module for WHMCS that delivers reliable and intell
 
 ---
 
+## 📂 Project Structure
+
+```
+modules/
+└── addons/
+    └── securesms/
+        ├── securesms.php
+        ├── cron.php
+        ├── hook.php
+        └── lib/
+            ├── Queue.php
+            └── SmsSender.php
+```
+
+---
+
+## ⚠️ Note
+
+Sensitive information such as API credentials, production configuration files, and customer data have been intentionally excluded from this public repository.
+
 ## Live Environment
 
 Integrated into production WHMCS environments.
