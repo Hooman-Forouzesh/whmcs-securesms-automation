@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Hooman-Forouzesh/whmcs-securesms-automation/blob/main/hooman-forouzesh-git-repositorybanner.png)" width="100%" alt="Hooman Forouzesh Banner">
+</p>
+
 # 🚀 WHMCS Secure SMS Automation
 
 A professional SMS automation module for WHMCS that delivers reliable and intelligent SMS notifications through scheduled queue processing.
